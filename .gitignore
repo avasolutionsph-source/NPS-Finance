@@ -1,0 +1,9 @@
+# Dependencies (demo is build-free; none expected here)
+node_modules/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
